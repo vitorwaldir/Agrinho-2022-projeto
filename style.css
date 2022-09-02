@@ -1,0 +1,206 @@
+
+
+body
+
+body {
+  position: relative;
+  bottom: 150px;
+  height: 300vh;
+}
+
+
+.titulo1 {
+ text-align:center;
+color:green;
+  font-family: Tahoma;  font-size: 40px;
+  }        
+  
+.projetoagrinho {
+  margin-top: 880vh;
+  position: sticky;
+  top: 0px;
+  background-color: lightcyan;
+  color: teal;
+    font-family: Arial; font: size 20px;
+  }
+
+.tituloimagem {
+  text-align: right;
+ position: relative;
+  right: 110px;
+  color:chocolate;
+}
+
+.imagem1 {
+  width: 500px; 
+  float: right
+}
+
+.styleprojetoagrinho
+
+}
+
+.imagem {
+    float: left 
+  }
+
+.cidadesao {
+    font-family: ariel;
+  font-size: 16px;
+}
+.spanmateus {
+background-color: green; 
+  font-family: ariel;
+  
+}
+
+.saomateusdosul{
+  position: relative;
+  left: 50px;
+}
+
+p {
+  font-family: Calisto MT;
+ 
+}
+
+
+.sao {
+  font-family: Comic Sans MS; 
+  font-size: 40px;
+  color: saddlebrown;
+}
+
+.cuiachimar {
+  position: relative;
+ left: 400px;
+ bottom: 150px;
+  width: 200px;
+  height: 200px
+ 
+}
+
+
+
+.poluicaogeral {
+  color: midnightblue;
+  font-family: ariel; font size- 20px;
+  position: relative;
+  bottom: 150px;
+}
+
+.poluicao {
+  float: right;
+  bottom: 170px;
+}
+  
+.paragrafo3 {
+  text-align:left
+    
+}
+.paragrafo2 {
+  text-align:center
+  
+}
+
+
+.sobreposuicao {
+  position: relative;
+  bottom: 300px;
+  right: 100px;
+}
+
+.paragrafo2 {
+  position: relative;
+  bottom: 150px;
+  right: 260px;
+}
+.paragrafo3 {
+  position: relative;
+  bottom: 150px;
+  left: 100px;
+}
+.subpolui {
+  position: relative;
+  bottom: 440px;
+  right: 30px;
+}
+
+.ditancia {
+  position: relative;
+  left: 50px;
+  top: 40px;
+}
+
+.azul1 {
+  color: midnightblue;
+}
+.azul2 {
+  color: darkblue;
+}
+.noestado {
+   position: relative;
+  bottom: 440px;
+  right: 30px;
+  
+}
+
+.poluicao1 {
+  position: relative;
+  bottom: 150px;
+  left: 650px
+}
+
+.poluicoes {
+  
+  font-famyly: Cambria;
+  font-size: 20px;
+  color: mediumseagreen;
+}
+.texto {
+  position: relative;
+  text-align: right;
+  font-family: Comic Sans MS;
+  font-size: 16px
+}
+
+
+.poluicao9 {
+  float: 
+  position: relative;
+  bottom: 100px;
+ width: 200px;
+   height: 200px;
+}
+
+.solucao {
+  position: relative;
+  float: right;
+  bottom: 150px;
+  width: 320px;
+  height: 180px;
+}
+
+.imagesaoouluicao {
+  bottom: 50px;
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+.subtitulo14 {
+  color:mediumslateblue
+}
+
+.opcoes {
+  left: 30px;
+}
+
+
+.final {
+  font-family: Eras Medium ITC;
+  font-size: 18px;
+  background-color: whitesmoke;
+  color: indigo;
+}
+
+body
